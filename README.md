@@ -5,7 +5,15 @@
  
  ## Function
  
- Concert-this
- Spotify-this-song
- Movie-this
- Logging
+ #### Concert-this
+ ![liribot-concertThis](/image/liribot-concert.gif)
+
+ #### Spotify-this-song
+ ![liribot-spotifyThisSong](/image/liribot-spotify.gif)
+ 
+ #### Movie-this
+ ![liribot-movieThis](/image/liribot-movie.gif)
+  
+#### Log out the result
+![liribot-movieThis](/image/liribot-txt.gif)
+![liribot-movieThis](/image/liribot-txt2.gif)
